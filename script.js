@@ -99,8 +99,8 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'PODZIW - koncept plakatu serialowego AI', 
       tag: 'Grafika AI', 
       src: '', 
-      poster: 'zdjecia/serial.png', 
-      image: 'zdjecia/serial.png', 
+      poster: 'zdjecia/podziw.png', 
+      image: 'zdjecia/podziw.png', 
       embed: '', 
       url: '' 
     },
